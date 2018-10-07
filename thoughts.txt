@@ -1,0 +1,16 @@
+no 1-dimesion sitting for p.groupid = -1
+max 2 rows per group
+find max area solution
+
+generation is a matrix, total rows x total cols
+
+each point on matrix has a PERSON obj
+
+PERSON class contains:
+	gourp id
+if no group then group id = -1	
+
+cal fitness by
+1. only keep PERSONs that have group
+2. find PERSON with group id !=1 and that he is left alone
+3. remove everyone with that group id from the matrix

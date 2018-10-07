@@ -1,0 +1,7 @@
+﻿  SPYC Musical Seat Assigning Algorithm.cpp
+d:\users\lemuel\software-development\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm.cpp(93): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\users\lemuel\software-development\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm.cpp(288): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\users\lemuel\software-development\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm.cpp(297): error C3867: 'GENERATION::myfunction': non-standard syntax; use '&' to create a pointer to member
+d:\users\lemuel\software-development\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm.cpp(297): error C2672: 'std::sort': no matching overloaded function found
+d:\users\lemuel\software-development\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm.cpp(297): error C2780: 'void std::sort(const _RanIt,const _RanIt)': expects 2 arguments - 3 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\algorithm(4038): note: see declaration of 'std::sort'
