@@ -1,16 +1,19 @@
-﻿  SPYC Musical Seat Assigning Algorithm.cpp
-d:\users\lemuel\software-development\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm.cpp(166): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-d:\users\lemuel\software-development\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm.cpp(413): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-d:\users\lemuel\software-development\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm.cpp(417): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-d:\users\lemuel\software-development\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm.cpp(510): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-d:\users\lemuel\software-development\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm.cpp(513): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-d:\users\lemuel\software-development\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm.cpp(565): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-d:\users\lemuel\software-development\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm.cpp(589): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-d:\users\lemuel\software-development\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm.cpp(612): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-d:\users\lemuel\software-development\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm\spyc musical seat assigning algorithm.cpp(610): warning C4101: 'minPos': unreferenced local variable
+﻿  pch.cpp
+  console_ui.cpp
+  SPYC Musical Seat Assigning Algorithm.cpp
+D:\Users\Lemuel\Software-Development\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm.cpp(166): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\Lemuel\Software-Development\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm.cpp(413): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\Lemuel\Software-Development\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm.cpp(417): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Users\Lemuel\Software-Development\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm.cpp(510): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\Lemuel\Software-Development\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm.cpp(513): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\Lemuel\Software-Development\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm.cpp(565): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\Lemuel\Software-Development\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm.cpp(589): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\Lemuel\Software-Development\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm.cpp(612): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\Lemuel\Software-Development\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm.cpp(610): warning C4101: 'minPos': unreferenced local variable
   Generating code
-  96 of 580 functions (16.6%) were compiled, the rest were copied from previous compilation.
-    35 functions were new in current compilation
-    24 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+D:\Users\Lemuel\Software-Development\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm.cpp(211): warning C4715: 'THEATRE::GetPersonSeatRow': not all control paths return a value
+D:\Users\Lemuel\Software-Development\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm\SPYC Musical Seat Assigning Algorithm.cpp(225): warning C4715: 'THEATRE::GetPersonSeatCol': not all control paths return a value
+  All 532 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   SPYC Musical Seat Assigning Algorithm.vcxproj -> D:\Users\Lemuel\Software-Development\SPYC Musical Seat Assigning Algorithm\x64\Release\SPYC Musical Seat Assigning Algorithm.exe
